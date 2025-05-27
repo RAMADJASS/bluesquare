@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: laravel-app
+    name: bluesquare
     env: php
     plan: free
     buildCommand: "./build.sh"
